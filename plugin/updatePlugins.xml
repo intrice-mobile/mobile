@@ -1,5 +1,5 @@
 <plugins>
-  <plugin id="com.connectivegames.refid" url="https://svn.intrice.ru/svn/polaris/flash-utils/plugins/IntelliJIDEA/RefidNavigator-64.17.zip" version="64.17">
+  <plugin id="com.connectivegames.refid" url="https://intrice-mobile.github.io/mobile/plugin/RefidNavigator-64.17.zip" version="64.17">
     <idea-version since-build="232.0" until-build="999.*" />
     <name>RefidNavigator</name>
     <description><![CDATA[
