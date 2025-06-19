@@ -1,5 +1,5 @@
 <plugins>
-  <plugin id="com.connectivegames.refid" url="https://intrice-mobile.github.io/mobile/plugin/RefidNavigator-64.17.zip" version="64.17">
+  <plugin id="com.connectivegames.refid" url="https://intrice-mobile.github.io/mobile/plugin/RefidNavigator-64.18.zip" version="64.18">
     <idea-version since-build="232.0" until-build="999.*" />
     <name>RefidNavigator</name>
     <description><![CDATA[
@@ -17,10 +17,6 @@
 
         <h3><b>Инструмент ускоряет навигацию, повышает наглядность и упрощает работу с логикой отображения компонентов.</b></h3>
     ]]></description>
-    <change-notes><![CDATA[
-    <h3>Что нового в версии 64.17</h3>
-    <ul>
-        <li>fix: отображение каретки текста на светлых темах</li>
-    </ul>]]></change-notes>
+    <change-notes></change-notes>
   </plugin>
 </plugins>
