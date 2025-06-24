@@ -1,12 +1,12 @@
 <plugins>
-  <plugin id="com.connectivegames.refid" url="https://intrice-mobile.github.io/mobile/plugin/RefidNavigator-64.19.zip" version="64.19">
+  <plugin id="com.connectivegames.refid" url="https://intrice-mobile.github.io/mobile/plugin/RefidNavigator-64.20.zip" version="64.20">
     <idea-version since-build="232.0" until-build="999.*" />
     <name>RefidNavigator</name>
     <description><![CDATA[
     <h3>Плагин для IntelliJ IDEA, предназначенный для работы с XML-конфигурациями и компонентами. Он предоставляет следующие функции:</h3>
     <ul>
-        <li>Сворачивание условий — автоматически сворачивает длинные строки с атрибутами `dataVisible` и `type="condition"` для улучшения читаемости.</li>
-        <li>Подсветка синтаксиса — выделяет операторы и значения в атрибутах `dataVisible` и `value`, облегчая восприятие логики.</li>
+        <li>Сворачивание условий — автоматически сворачивает длинные строки с атрибутами `dataVisible`, `dataLabel`, `labelData`, `valueData` и `type="condition"` для улучшения читаемости.</li>
+        <li>Подсветка синтаксиса — выделяет операторы и значения в атрибутах `dataVisible`, `dataLabel`, `labelData`, `valueData` и `value`, облегчая восприятие логики.</li>
         <li>Валидация выражений — проверяет корректность операторов и парность скобок в условиях.</li>
         <li>Быстрое редактирование — при Ctrl+Click на значении условия открывается окно для удобного редактирования.</li>
         <li>Навигация по компонентам — Ctrl+Click на названии наследника переводит к родительскому компоненту.</li>
@@ -17,6 +17,11 @@
 
         <h3><b>Инструмент ускоряет навигацию, повышает наглядность и упрощает работу с логикой отображения компонентов.</b></h3>
     ]]></description>
-    <change-notes></change-notes>
+    <change-notes><![CDATA[
+    <h3>Что нового:</h3>
+    <ul>
+        <li>Добавлен функционал для `dataLabel`, `labelData`, `valueData`</li>
+       <li>Вендор connectivegames -> Intrice</li>
+     </ul></change-notes>
   </plugin>
 </plugins>
