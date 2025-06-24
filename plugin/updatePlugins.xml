@@ -20,7 +20,7 @@
     <change-notes><![CDATA[
     <h3>Что нового:</h3>
     <ul>
-        <li>Добавлен функционал для `dataLabel`, `labelData`, `valueData`</li>
+        <li>Добавлен функционал для `dataLabel`, `labelData` и `valueData`</li>
        <li>Вендор connectivegames -> Intrice</li>
      </ul>]]></change-notes>
   </plugin>
