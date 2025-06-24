@@ -1,5 +1,5 @@
 <plugins>
-  <plugin id="com.connectivegames.refid" url="https://intrice-mobile.github.io/mobile/plugin/RefidNavigator-64.20.zip" version="64.20">
+  <plugin id="com.connectivegames.refid" url="https://intrice-mobile.github.io/mobile/RefidNavigator-64.20.zip" version="64.20">
     <idea-version since-build="232.0" until-build="999.*" />
     <name>RefidNavigator</name>
     <description><![CDATA[
